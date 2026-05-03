@@ -1,0 +1,2 @@
+streamlit>=1.30
+llm-guard>=0.3.14
